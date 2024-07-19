@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.hotel{
+    background-image: url("https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_600,q_auto,w_600//hotelier-images/7a/87/de47b0df8e8a86eaece7d6bd5bb876b58dd91828b94ee90da649277f85cd.jpeg");
+    background-size:cover;
+    height: 800px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-top: 70px;
+} 
+.abc{
+    background-color:#000000e6 ;
+    height: 200px;
+    border-radius: 20px;
+    width: 500px;
+    color: antiquewhite;
+    font-family: Roboto;
+    padding: 30px;
+} 
+
+.bt{
+    text-align: center;
+    padding: 40px;
+}
+
+.b{
+    background-color: white;
+    height: 35px;
+    width: 150px;
+    text-align: center;
+    border-radius: 10px;
+    border-width: 0px;
+} 
+
+.a {
+    font-family: "Breef Serif";
+    font-weight: 500;
+}
